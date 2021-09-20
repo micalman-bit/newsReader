@@ -1,2 +1,2 @@
 # newsReader
-Приложение для просмотра новостной ленты.
+Application for viewing the news feed.
